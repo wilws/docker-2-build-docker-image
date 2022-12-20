@@ -1,0 +1,23 @@
+{
+  "name": "docker-2-build-docker-image",
+  "version": "1.0.0",
+  "description": "https://wilsonsdevnotes.blogspot.com/2022/10/docker-2-create-docker-image.html",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilws/docker-2-build-docker-image.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wilws/docker-2-build-docker-image/issues"
+  },
+  "homepage": "https://github.com/wilws/docker-2-build-docker-image#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
